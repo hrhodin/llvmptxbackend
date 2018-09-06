@@ -1,3 +1,11 @@
+PTX backand for LLVM
+============
+
+Backend code that emerged from Helge Rhodin's bachelor thesis 'A PTX code generator for LLVM'.
+
+Instructions
+============
+
 Basically, the way Tom set this up is to allow all of us to use our own versions
 of LLVM in a local repository (on the machine where we have checked out LLVM) and
 still be able use each other's "passes" using shared libraries. This also gives a 
@@ -38,5 +46,3 @@ export INCLUDE_DIR=/home/pprabhu/llvmptxbackend/include
 (5) Create a new directory for any new set of passes you want to add within the lib
 directory, create .cpp files within that directory while the include directory has 
 Liberty-specific .h files required by the .cpp files
-
-Written by Prakash, 4th Sep 2008.
