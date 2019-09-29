@@ -46,3 +46,5 @@ export INCLUDE_DIR=/home/pprabhu/llvmptxbackend/include
 (5) Create a new directory for any new set of passes you want to add within the lib
 directory, create .cpp files within that directory while the include directory has 
 Liberty-specific .h files required by the .cpp files
+
+[![analytics](http://www.google-analytics.com/collect?v=1&t=pageview&_u=MAC~&cid=1234&tid=UA-148966124-1)]()
