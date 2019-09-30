@@ -47,4 +47,4 @@ export INCLUDE_DIR=/home/pprabhu/llvmptxbackend/include
 directory, create .cpp files within that directory while the include directory has 
 Liberty-specific .h files required by the .cpp files
 
-![Image of Yaktocat](https://www.google-analytics.com/collect?v=1&cid=5555&t=pageview&tid=UA-102526720-1)
+![ImageForAnalytics](https://www.google-analytics.com/__utm.gif?v=1&cid=5555&t=pageview&tid=UA-102526720-1)
